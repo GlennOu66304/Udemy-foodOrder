@@ -1,9 +1,9 @@
 import React from 'react';
 import '../../App.css';
-// import HeroSection from '../HeroSection';
-// import Cards from '../Cards';
-// import Footer from '../Footer';
-import{HeroSection,Cards,Footer} from '../../components'
+import HeroSection from '../../components/hero/HeroSection';
+import Cards from '../../components/cards/Cards';
+import Footer from '../../components/footer/Footer';
+// import{HeroSection,  Footer} from '../../components'
 function Home(){
 
     return(

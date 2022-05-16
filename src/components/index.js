@@ -1,6 +1,0 @@
-export * from './button'
-export * from './navBar'
-export * from './cardItem'
-export * from './cards'
-export * from './footer'
-export * from './hero'
